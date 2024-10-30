@@ -1,0 +1,27 @@
+#scrollView {
+    overflow-y: scroll;
+    border-radius: 1px;
+    background-color: transparent;
+    padding: 5px;
+    margin-top: 10px;
+    border: 0px solid grey;
+    border-top-width: 1px;
+}
+
+#scrollView::-webkit-scrollbar {
+    width: 5px;
+}
+
+#scrollView::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+#scrollView::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 10px;
+}
+
+#scrollView::-webkit-scrollbar-thumb:hover {
+    background: #555;
+    border-radius: 10px;
+}

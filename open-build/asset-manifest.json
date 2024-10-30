@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/wp-content/plugins/ivplayer/open-build/static/css/main.a84b5d54.chunk.css",
+    "main.js": "/wp-content/plugins/ivplayer/open-build/static/js/main.de280040.chunk.js",
+    "main.js.map": "/wp-content/plugins/ivplayer/open-build/static/js/main.de280040.chunk.js.map",
+    "runtime-main.js": "/wp-content/plugins/ivplayer/open-build/static/js/runtime-main.3a92629c.js",
+    "runtime-main.js.map": "/wp-content/plugins/ivplayer/open-build/static/js/runtime-main.3a92629c.js.map",
+    "static/js/2.c94fb2be.chunk.js": "/wp-content/plugins/ivplayer/open-build/static/js/2.c94fb2be.chunk.js",
+    "static/js/2.c94fb2be.chunk.js.map": "/wp-content/plugins/ivplayer/open-build/static/js/2.c94fb2be.chunk.js.map",
+    "index.html": "/wp-content/plugins/ivplayer/open-build/index.html",
+    "precache-manifest.9595d038289a03d04efdfd8cb7b05004.js": "/wp-content/plugins/ivplayer/open-build/precache-manifest.9595d038289a03d04efdfd8cb7b05004.js",
+    "service-worker.js": "/wp-content/plugins/ivplayer/open-build/service-worker.js",
+    "static/css/main.a84b5d54.chunk.css.map": "/wp-content/plugins/ivplayer/open-build/static/css/main.a84b5d54.chunk.css.map",
+    "static/js/2.c94fb2be.chunk.js.LICENSE.txt": "/wp-content/plugins/ivplayer/open-build/static/js/2.c94fb2be.chunk.js.LICENSE.txt",
+    "static/media/FontAwesome.ttf": "/wp-content/plugins/ivplayer/open-build/static/media/FontAwesome.b06871f2.ttf",
+    "static/media/FontAwesome5_Brands.ttf": "/wp-content/plugins/ivplayer/open-build/static/media/FontAwesome5_Brands.13685372.ttf",
+    "static/media/FontAwesome5_Regular.ttf": "/wp-content/plugins/ivplayer/open-build/static/media/FontAwesome5_Regular.db78b935.ttf",
+    "static/media/FontAwesome5_Solid.ttf": "/wp-content/plugins/ivplayer/open-build/static/media/FontAwesome5_Solid.1ab236ed.ttf",
+    "static/media/MaterialIcons.ttf": "/wp-content/plugins/ivplayer/open-build/static/media/MaterialIcons.8ef52a15.ttf",
+    "static/media/iv-player-icons.ttf": "/wp-content/plugins/ivplayer/open-build/static/media/iv-player-icons.2a07a263.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a92629c.js",
+    "static/js/2.c94fb2be.chunk.js",
+    "static/css/main.a84b5d54.chunk.css",
+    "static/js/main.de280040.chunk.js"
+  ]
+}
